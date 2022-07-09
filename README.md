@@ -2,7 +2,7 @@
 
 ```
 docker compose build
-docker compose run --rm frontend npm install
+docker compose run --rm app npm install
 ```
 
 ## 実行
